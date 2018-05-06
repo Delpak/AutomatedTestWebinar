@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestWebinar.Part1", "AutomatedTestWebinar.Part1\AutomatedTestWebinar.Part1.csproj", "{CE5BC751-AB1A-4D90-8B3C-0882D2E89418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestWebinar.Part1.UnitTests", "AutomatedTestWebinar.Part1.UnitTests\AutomatedTestWebinar.Part1.UnitTests.csproj", "{B19EEACA-3980-446B-9663-E1EEC08AC17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5BC751-AB1A-4D90-8B3C-0882D2E89418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5BC751-AB1A-4D90-8B3C-0882D2E89418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5BC751-AB1A-4D90-8B3C-0882D2E89418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5BC751-AB1A-4D90-8B3C-0882D2E89418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19EEACA-3980-446B-9663-E1EEC08AC17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19EEACA-3980-446B-9663-E1EEC08AC17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19EEACA-3980-446B-9663-E1EEC08AC17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19EEACA-3980-446B-9663-E1EEC08AC17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232580B6-0D51-4627-88F6-0606DF9FB5A7}
+	EndGlobalSection
+EndGlobal
